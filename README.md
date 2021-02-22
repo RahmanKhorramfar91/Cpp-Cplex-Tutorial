@@ -1,4 +1,4 @@
-# C-Cplex-Tutorial
+# C++/Cplex-Tutorial
 
 The codes for the C++-Cplex-Tutorial given on the virtual session organized by ISE-GSA and Informs NCSU Student Chapter. 
 The tutorial designed for any OR practitioner planning to start coding OR problems in C++ and solve by ILOG Cplex. 
