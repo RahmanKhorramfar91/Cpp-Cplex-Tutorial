@@ -4,7 +4,7 @@ The codes for the C++-Cplex-Tutorial given on the virtual session organized by I
 The tutorial designed for any OR practitioner planning to start coding OR problems in C++ and solve by ILOG Cplex. 
 
 
-I the first part of the tutorial, I start with why C++ and Cple and explain how to setup Cplex for C++ and Visual Studio.
+In the first part of the tutorial, I start with why C++ and Cple and explain how to setup Cplex for C++ and Visual Studio.
 I then build and solve a simple problem (transportation problem). I develop several versions of this problem, each with an additional layer of automation.
 The last version allows the user to run a batch of instances from the command window. For each instance, a proper set of paramters is randomly generated and the results is stored in a text file. 
 
