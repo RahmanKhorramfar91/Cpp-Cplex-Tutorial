@@ -14,4 +14,4 @@ In the first part of the tutorial, I start with why C++ and Cplex and explain ho
 The second part of the tutorial presented on March 11th where implementation of column generation and Bender's decomposition algorithms discussed for two problems. I picked two simple problem that are general enough for educational purposed and simple enough for our limited time. As such, a column generation algorithm is implemented for a cutting-stock problem and Bender's decomposition for a fixed cost transportation problem (FCTP).
 
 
-Comments and Suggestions are very much appreciated.
+Comments and Suggestions are very much appreciated (rkhorra@ncsu.edu).
