@@ -4,6 +4,7 @@ The codes for the C++-Cplex-Tutorial given on the virtual session organized by I
 The tutorial designed for any OR practitioner planning to start coding OR problems in C++ and solve by ILOG Cplex. 
 
 Video of Part 1: https://www.youtube.com/watch?v=k_Z-F8nbXjU&t=0s&ab_channel=INFORMSNCSUStudentChapter
+
 Video of Part 2: https://www.youtube.com/watch?v=1pahj3lX9ms&t=2501s&ab_channel=INFORMSNCSUStudentChapter
 
 
